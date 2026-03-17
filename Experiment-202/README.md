@@ -249,6 +249,8 @@ main, exiting
 ---
 
 # Output
+<img width="1627" height="903" alt="image" src="https://github.com/user-attachments/assets/6a118bdc-450e-4d7a-94f1-75dff860f2c3" />
+
 
 ---
 
