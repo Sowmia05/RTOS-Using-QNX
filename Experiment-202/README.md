@@ -249,8 +249,9 @@ main, exiting
 ---
 
 # Output
+<img width="1439" height="795" alt="image" src="https://github.com/user-attachments/assets/3e85ae2a-eff1-43db-a502-c49235644243" />
 
-![output3](exp3.png)
+---
 
 # Result
 
